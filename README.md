@@ -2,6 +2,8 @@
 
 Auralyze is an audio-visualizer based on p5.js
 
+![Visualizer](showcase.gif)
+
 ## What it is
 
 An interactive audio-visualizer website where you can visualize your favorite songs in any of the five visualizers.The visualizer uses the songs bass and tremble of the song.
